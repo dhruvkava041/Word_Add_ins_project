@@ -1,0 +1,13 @@
+F:\WordAddIn\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.dll
+F:\WordAddIn\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.pdb
+F:\WordAddIn\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.dll.manifest
+F:\WordAddIn\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.vsto
+F:\WordAddIn\WordAddIn1\WordAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\WordAddIn\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.csprojAssemblyReference.cache
+F:\WordAddIn\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.Properties.Resources.resources
+F:\WordAddIn\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.WordAddInRibbon.resources
+F:\WordAddIn\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.csproj.GenerateResource.cache
+F:\WordAddIn\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.csproj.CoreCompileInputs.cache
+F:\WordAddIn\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.csproj.CopyComplete
+F:\WordAddIn\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.dll
+F:\WordAddIn\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.pdb
